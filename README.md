@@ -9,8 +9,8 @@
 
 
 ### 🛠 Tech Stack  
-- **Languages:** Java, Kotlin, Javascript, React, Next.js
-- **Frameworks:** Spring Boot, http4k, Redux, 
+- **Languages:** Java, Kotlin, Javascript
+- **Frameworks:** Spring Boot, http4k, React, Redux, Next.js
 - **Tools:** Docker, Kubernetes, GCP, Gatling
 - **Concepts:** Object-Oriented Programming (OOP), System Design, Distributed Systems, Data structures and Algorithms
 
