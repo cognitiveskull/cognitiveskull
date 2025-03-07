@@ -2,12 +2,23 @@
 
 - 🔭 I'm currently working as Software Engineer at Equal Experts | Ex-Thoughtworker.
 - 🌱 I'm currently working with Kotlin, Http4k, Javascript and Next.js.
-- 💬 Ask me about Functional Programming, SpringBoot, Kotlin, Java, JavaScript, React, Next.js, Node.js, OOP, Design Patterns, System Scaling or System design 
 - 📫 You can reach out to me at annu262000@gmail.com / pingale.annapurna@gmail.com
 - 😄 Pronouns: She/Her
-- 📷 You can find me on [LinkedIn](https://www.linkedin.com/in/annapurna-pingale-39a6101b3/) | [LeetCode](https://leetcode.com/u/Annapurna_Pingale/) | [HackerRank](https://www.hackerrank.com/profile/annu262000) | [Medium](https://cognitiveskull.medium.com/) | [Instagram](https://www.instagram.com/itz_annapurna/)
 - ⚡ Fun fact: Though I work from home most of the time. I am an orophile.
+- 📷 You can find me on [LinkedIn](https://www.linkedin.com/in/annapurna-pingale-39a6101b3/) | [LeetCode](https://leetcode.com/u/Annapurna_Pingale/) | [HackerRank](https://www.hackerrank.com/profile/annu262000) | [Medium](https://cognitiveskull.medium.com/) | [Instagram](https://www.instagram.com/itz_annapurna/)
 
+
+### 🛠 Tech Stack  
+- **Languages:** Java, Kotlin, Javascript, React, Next.js
+- **Frameworks:** Spring Boot, http4k, Redux, 
+- **Tools:** Docker, Kubernetes, GCP, Gatling
+- **Concepts:** Object-Oriented Programming (OOP), System Design, Distributed Systems, Data structures and Algorithms
+
+### 📢 What I’m Up To  
+- Building scalable backend systems  
+- Writing performance tests with Gatling  
+- Exploring cloud architecture
+  
 ## GitHub Stats
 
 <a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
